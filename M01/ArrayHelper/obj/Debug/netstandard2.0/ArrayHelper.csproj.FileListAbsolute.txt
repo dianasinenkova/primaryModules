@@ -1,0 +1,8 @@
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\ArrayHelper\bin\Debug\netstandard2.0\ArrayHelper.deps.json
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\ArrayHelper\bin\Debug\netstandard2.0\ArrayHelper.dll
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\ArrayHelper\bin\Debug\netstandard2.0\ArrayHelper.pdb
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.AssemblyInfoInputs.cache
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.AssemblyInfo.cs
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.csproj.CoreCompileInputs.cache
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.dll
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.pdb

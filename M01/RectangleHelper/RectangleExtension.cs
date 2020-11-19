@@ -6,7 +6,7 @@ namespace RectangleHelper
     public static class RectangleExtension
     {
         //int
-        public static int Perimeter(int width, int length)
+        public static int Perimeter(this int width, int length)
         {
             int p = 0;
 
@@ -17,7 +17,7 @@ namespace RectangleHelper
             return p;
         }
 
-        public static int Square(int width, int length)
+        public static int Square(this int width, int length)
         {
             int square = 0;
 
@@ -28,7 +28,7 @@ namespace RectangleHelper
             return square;
         }
         //double
-        public static double Perimeter(double width, double length)
+        public static double Perimeter(this double width, double length)
         {
             double p = 0;
 
@@ -39,7 +39,7 @@ namespace RectangleHelper
             return p;
         }
 
-        public static double Square(double width, double length)
+        public static double Square(this double width, double length)
         {
             double square = 0;
 
@@ -51,7 +51,7 @@ namespace RectangleHelper
         }
 
         //float
-        public static float Perimeter(float width, float length)
+        public static float Perimeter(this float width, float length)
         {
             float p = 0;
 
@@ -62,7 +62,7 @@ namespace RectangleHelper
             return p;
         }
 
-        public static float Square(float width, float length)
+        public static float Square(this float width, float length)
         {
             float square = 0;
 

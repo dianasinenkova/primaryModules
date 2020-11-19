@@ -2,14 +2,13 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace ArrayHelper
+ namespace ArrayHelper
 {
-    public class ArrayExtension
+    public static class ArrayExtension
     {
 
-        public static T[] BubbleSortAsc<T>(T[] array) where T : IComparable<T>
+        public static T[] BubbleSortAsc<T>(this T[] array) where T : IComparable<T>
         {
-            //Тут нужно проверить на ненулевой массив
             if (array.Length > 0)
             {
                 T x;
@@ -24,73 +23,83 @@ namespace ArrayHelper
                             array[j] = x;
                         }
                     }
-                }  
+                }
             }
             return array;
-            // а если все ж нулевой массив? 
         }
 
-        public static T[] BubbleSortDesc<T>(T[] array) where T : IComparable<T>
+        public static T[] BubbleSortDesc<T>(this T[] array) where T : IComparable<T>
         {
             T x;
-            for (int i = 0; i < array.Length; i++)
+            if (array.Length > 0)
             {
-                for (int j = 0; j < array.Length; j++)
+                for (int i = 0; i < array.Length; i++)
                 {
-                    if (array[j].CompareTo(array[j]) < 0)
+                    for (int j = 0; j < array.Length; j++)
                     {
-                        x = array[j - 1];
-                        array[j - 1] = array[j];
-                        array[j] = x;
+                        if (array[j].CompareTo(array[j]) < 0)
+                        {
+                            x = array[j - 1];
+                            array[j - 1] = array[j];
+                            array[j] = x;
+                        }
                     }
                 }
             }
             return array;
         }
 
-        private static int Calculate(int[,] array)
+        private static int Calculate(this int[,] array)
         {
             int res = 0;
-            for (int i = 0; i < array.GetLength(1); i++)
+            if (array.Length > 0)
             {
-                for (int j = 0; j < array.GetLength(0); j++)
+                for (int i = 0; i < array.GetLength(1); i++)
                 {
-                    if (array[i, j] > 0)
+                    for (int j = 0; j < array.GetLength(0); j++)
                     {
-                        res += array[i, j];
+                        if (array[i, j] > 0)
+                        {
+                            res += array[i, j];
+                        }
                     }
-
                 }
             }
             return res;
         }
 
-        private static double Calculate(double[,] array)
+        private static double Calculate(this double[,] array)
         {
             double res = 0;
-            for (int i = 0; i < array.GetLength(1); i++)
+            if (array.Length > 0)
             {
-                for (int j = 0; j < array.GetLength(0); j++)
+                for (int i = 0; i < array.GetLength(1); i++)
                 {
-                    if (array[i, j] > 0)
+                    for (int j = 0; j < array.GetLength(0); j++)
                     {
-                        res += array[i, j];
+                        if (array[i, j] > 0)
+                        {
+                            res += array[i, j];
+                        }
                     }
                 }
             }
             return res;
         }
 
-        private static sbyte Calculate(sbyte[,] array)
+        private static sbyte Calculate(this sbyte[,] array)
         {
             sbyte res = 0;
-            for (int i = 0; i < array.GetLength(1); i++)
+            if (array.Length > 0)
             {
-                for (int j = 0; j < array.GetLength(0); j++)
+                for (int i = 0; i < array.GetLength(1); i++)
                 {
-                    if (array[i, j] > 0)
+                    for (int j = 0; j < array.GetLength(0); j++)
                     {
-                        res += array[i, j];
+                        if (array[i, j] > 0)
+                        {
+                            res += array[i, j];
+                        }
                     }
                 }
             }

@@ -1,0 +1,9 @@
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\RectangleHelper\bin\Debug\netstandard2.0\RectangleHelper.deps.json
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\RectangleHelper\bin\Debug\netstandard2.0\RectangleHelper.dll
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\RectangleHelper\bin\Debug\netstandard2.0\RectangleHelper.pdb
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\RectangleHelper\obj\Debug\netstandard2.0\RectangleHelper.csprojAssemblyReference.cache
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\RectangleHelper\obj\Debug\netstandard2.0\RectangleHelper.AssemblyInfoInputs.cache
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\RectangleHelper\obj\Debug\netstandard2.0\RectangleHelper.AssemblyInfo.cs
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\RectangleHelper\obj\Debug\netstandard2.0\RectangleHelper.csproj.CoreCompileInputs.cache
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\RectangleHelper\obj\Debug\netstandard2.0\RectangleHelper.dll
+C:\Users\Диана\Documents\projects\primaryModules\primaryModules\M01\RectangleHelper\obj\Debug\netstandard2.0\RectangleHelper.pdb
