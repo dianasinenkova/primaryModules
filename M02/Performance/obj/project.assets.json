@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Диана\\Documents\\projects\\primaryModules\\primaryModules\\M02\\Students\\Students.csproj",
-      "projectName": "Students",
-      "projectPath": "C:\\Users\\Диана\\Documents\\projects\\primaryModules\\primaryModules\\M02\\Students\\Students.csproj",
+      "projectUniqueName": "C:\\Users\\Диана\\Documents\\projects\\primaryModules\\primaryModules\\M02\\Performance\\Performance.csproj",
+      "projectName": "Performance",
+      "projectPath": "C:\\Users\\Диана\\Documents\\projects\\primaryModules\\primaryModules\\M02\\Performance\\Performance.csproj",
       "packagesPath": "C:\\Users\\Диана\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Диана\\Documents\\projects\\primaryModules\\primaryModules\\M02\\Students\\obj\\",
+      "outputPath": "C:\\Users\\Диана\\Documents\\projects\\primaryModules\\primaryModules\\M02\\Performance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Диана\\AppData\\Roaming\\NuGet\\NuGet.Config",
