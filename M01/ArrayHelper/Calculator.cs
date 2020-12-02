@@ -2,53 +2,10 @@
 using System.Collections.Generic;
 using System.Text;
 
- namespace ArrayHelper
+namespace ArrayHelper
 {
-    public static class ArrayExtension
+    public static class Calculator
     {
-
-        public static T[] BubbleSortAsc<T>(this T[] array) where T : IComparable<T>
-        {
-            if (array.Length > 0)
-            {
-                T x;
-                for (int i = 0; i < array.Length; i++)
-                {
-                    for (int j = 0; j < array.Length; j++)
-                    {
-                        if (array[j].CompareTo(array[j]) > 0)
-                        {
-                            x = array[j - 1];
-                            array[j - 1] = array[j];
-                            array[j] = x;
-                        }
-                    }
-                }
-            }
-            return array;
-        }
-
-        public static T[] BubbleSortDesc<T>(this T[] array) where T : IComparable<T>
-        {
-            T x;
-            if (array.Length > 0)
-            {
-                for (int i = 0; i < array.Length; i++)
-                {
-                    for (int j = 0; j < array.Length; j++)
-                    {
-                        if (array[j].CompareTo(array[j]) < 0)
-                        {
-                            x = array[j - 1];
-                            array[j - 1] = array[j];
-                            array[j] = x;
-                        }
-                    }
-                }
-            }
-            return array;
-        }
-
         private static int Calculate(this int[,] array)
         {
             int res = 0;
@@ -105,7 +62,5 @@ using System.Text;
             }
             return res;
         }
-
-
     }
 }
