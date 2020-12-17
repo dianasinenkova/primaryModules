@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3nrNpmJnOww2wTDtQGGHa245yOB1zRoI0gl8ZoVBzfouY/wdIxGkXA4+Z11oj4DWu/siL26K7k3a7k3ApXkuIA==",
+  "dgSpecHash": "ew+u3p/Pmmtw955/hMCi+kPoeG07AA1DG6qUtOLdGK6TY6gCVTXISsshkYeKKj9WcDBWMCCvHkF3UKysBy7ozg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Диана\\Documents\\projects\\primaryModules\\primaryModules\\M01\\ArrayHelper\\ArrayHelper.csproj",
+  "projectFilePath": "C:\\GitProjects\\primaryModules\\M01\\ArrayHelper\\ArrayHelper.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Диана\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Диана\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\diana\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\diana\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -6,7 +6,7 @@ namespace ArrayHelper
 {
     public static class Calculator
     {
-        private static int Calculate(this int[,] array)
+        public static int Calculate(this int[,] array)
         {
             int res = 0;
             if (array.Length > 0)
@@ -25,7 +25,7 @@ namespace ArrayHelper
             return res;
         }
 
-        private static double Calculate(this double[,] array)
+        public static double Calculate(this double[,] array)
         {
             double res = 0;
             if (array.Length > 0)
@@ -44,7 +44,7 @@ namespace ArrayHelper
             return res;
         }
 
-        private static sbyte Calculate(this sbyte[,] array)
+        public static sbyte Calculate(this sbyte[,] array)
         {
             sbyte res = 0;
             if (array.Length > 0)
