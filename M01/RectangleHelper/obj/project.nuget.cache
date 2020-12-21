@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "3qyokTaKs3/NPFJqCkjAuTwOwJdmuVTKOWfVkfT1SjscXaQewRAOV8fcivaIF96yjGt0gtX7pasZtbejnTOvkg==",
+  "dgSpecHash": "tpg2eDcaco+Ayeg7kT87AGvxEVc+n26ZJOSSrRMCt7lQp9GwueSjw6eDAVRgj/UZqoj5o0O6dH7jHiyPIxKsmg==",
   "success": true,
-  "projectFilePath": "C:\\GitProjects\\primaryModules\\M01\\RectangleHelper\\RectangleHelper.csproj",
+  "projectFilePath": "D:\\Личная папка\\Documents\\primaryModules-master\\M01\\RectangleHelper\\RectangleHelper.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\diana\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\diana\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

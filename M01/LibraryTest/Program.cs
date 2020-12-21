@@ -7,8 +7,10 @@ namespace LibraryTest
     {
         static void Main(string[] args)
         {
-
+            //ARRAYHELPER DEMO
             Console.WriteLine("Демонстрация библиотеки ArrayHelper");
+
+            //BUBBLESORT DEMO
             Console.WriteLine("Для массива типа int");
             int[] arr1 = {45, 24, 56, 48, 2, 58, 39, 19};
             Console.WriteLine("Неотсортированный массив:");
@@ -78,10 +80,58 @@ namespace LibraryTest
             {
                 Console.Write(arr3[i] + " ");
             }
+            Console.WriteLine();
+
+            //CALCULATE DEMO
+            Console.WriteLine("Для двумерного массива типа int");
+            Console.WriteLine("Массив: ");
+            int[,] arr4 = { {-1586, 23, 114, -198 }, {5, -5689, 81, -12 } };
+            for (int i = 0; i < arr4.GetLength(0); i++)
+            {
+                for (int j = 0; j < arr4.GetLength(1); j++)
+                {
+                    Console.Write(arr4[i,j] + " ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine("Результат: " + arr4.Calculate());
+            Console.WriteLine();
+
+            Console.WriteLine("Для двумерного массива типа double");
+            Console.WriteLine("Массив: ");
+            int[,] arr5 = { { -1586, 23, 114, -198 }, { 5, -5689, 81, -12 } }; //TODO: сменить числа на double
+            for (int i = 0; i < arr5.GetLength(0); i++)
+            {
+                for (int j = 0; j < arr5.GetLength(1); j++)
+                {
+                    Console.Write(arr5[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine("Результат: " + arr5.Calculate());
+            Console.WriteLine();
+
+            Console.WriteLine("Для двумерного массива типа sbyte");
+            Console.WriteLine("Массив: ");
+            int[,] arr6 = { { -1586, 23, 114, -198 }, { 5, -5689, 81, -12 } }; //TODO: сменить числа на sbyte
+            for (int i = 0; i < arr6.GetLength(0); i++)
+            {
+                for (int j = 0; j < arr6.GetLength(1); j++)
+                {
+                    Console.Write(arr6[i, j] + " ");
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine("Результат: " + arr6.Calculate());
+            Console.WriteLine();
 
 
+
+            //RECTANGLEHELPER DEMO
             Console.WriteLine();
             Console.WriteLine("Демонстрация библиотеки RectangleHelper");
+
+            Console.WriteLine("Если у вас есть прямоугольник со сторонами ");
         }
 
     }

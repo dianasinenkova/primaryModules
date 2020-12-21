@@ -30,3 +30,19 @@ C:\GitProjects\primaryModules\M01\LibraryTest\obj\Debug\netcoreapp3.1\LibraryTes
 C:\GitProjects\primaryModules\M01\LibraryTest\obj\Debug\netcoreapp3.1\LibraryTest.dll
 C:\GitProjects\primaryModules\M01\LibraryTest\obj\Debug\netcoreapp3.1\LibraryTest.pdb
 C:\GitProjects\primaryModules\M01\LibraryTest\obj\Debug\netcoreapp3.1\LibraryTest.genruntimeconfig.cache
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\bin\Debug\netcoreapp3.1\LibraryTest.exe
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\bin\Debug\netcoreapp3.1\LibraryTest.deps.json
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\bin\Debug\netcoreapp3.1\LibraryTest.runtimeconfig.json
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\bin\Debug\netcoreapp3.1\LibraryTest.runtimeconfig.dev.json
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\bin\Debug\netcoreapp3.1\LibraryTest.dll
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\bin\Debug\netcoreapp3.1\LibraryTest.pdb
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\bin\Debug\netcoreapp3.1\ArrayHelper.dll
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\bin\Debug\netcoreapp3.1\ArrayHelper.pdb
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\obj\Debug\netcoreapp3.1\LibraryTest.csprojAssemblyReference.cache
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\obj\Debug\netcoreapp3.1\LibraryTest.AssemblyInfoInputs.cache
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\obj\Debug\netcoreapp3.1\LibraryTest.AssemblyInfo.cs
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\obj\Debug\netcoreapp3.1\LibraryTest.csproj.CoreCompileInputs.cache
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\obj\Debug\netcoreapp3.1\LibraryTest.csproj.CopyComplete
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\obj\Debug\netcoreapp3.1\LibraryTest.dll
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\obj\Debug\netcoreapp3.1\LibraryTest.pdb
+D:\Личная папка\Documents\primaryModules-master\M01\LibraryTest\obj\Debug\netcoreapp3.1\LibraryTest.genruntimeconfig.cache

@@ -180,23 +180,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\diana\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\sinenkova\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitProjects\\primaryModules\\M01\\RectangleHelper\\RectangleHelper.csproj",
+      "projectUniqueName": "D:\\Личная папка\\Documents\\primaryModules-master\\M01\\RectangleHelper\\RectangleHelper.csproj",
       "projectName": "RectangleHelper",
-      "projectPath": "C:\\GitProjects\\primaryModules\\M01\\RectangleHelper\\RectangleHelper.csproj",
-      "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-      "outputPath": "C:\\GitProjects\\primaryModules\\M01\\RectangleHelper\\obj\\",
+      "projectPath": "D:\\Личная папка\\Documents\\primaryModules-master\\M01\\RectangleHelper\\RectangleHelper.csproj",
+      "packagesPath": "C:\\Users\\sinenkova\\.nuget\\packages\\",
+      "outputPath": "D:\\Личная папка\\Documents\\primaryModules-master\\M01\\RectangleHelper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sinenkova\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -240,7 +242,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

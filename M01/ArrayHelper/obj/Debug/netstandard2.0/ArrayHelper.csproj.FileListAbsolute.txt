@@ -16,3 +16,12 @@ C:\GitProjects\primaryModules\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelp
 C:\GitProjects\primaryModules\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.csproj.CoreCompileInputs.cache
 C:\GitProjects\primaryModules\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.dll
 C:\GitProjects\primaryModules\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.pdb
+D:\Личная папка\Documents\primaryModules-master\M01\ArrayHelper\bin\Debug\netstandard2.0\ArrayHelper.deps.json
+D:\Личная папка\Documents\primaryModules-master\M01\ArrayHelper\bin\Debug\netstandard2.0\ArrayHelper.dll
+D:\Личная папка\Documents\primaryModules-master\M01\ArrayHelper\bin\Debug\netstandard2.0\ArrayHelper.pdb
+D:\Личная папка\Documents\primaryModules-master\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.csprojAssemblyReference.cache
+D:\Личная папка\Documents\primaryModules-master\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.AssemblyInfoInputs.cache
+D:\Личная папка\Documents\primaryModules-master\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.AssemblyInfo.cs
+D:\Личная папка\Documents\primaryModules-master\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.csproj.CoreCompileInputs.cache
+D:\Личная папка\Documents\primaryModules-master\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.dll
+D:\Личная папка\Documents\primaryModules-master\M01\ArrayHelper\obj\Debug\netstandard2.0\ArrayHelper.pdb

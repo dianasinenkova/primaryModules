@@ -11,9 +11,9 @@ namespace ArrayHelper
             int res = 0;
             if (array.Length > 0)
             {
-                for (int i = 0; i < array.GetLength(1); i++)
+                for (int i = 0; i < array.GetLength(0); i++)
                 {
-                    for (int j = 0; j < array.GetLength(0); j++)
+                    for (int j = 0; j < array.GetLength(1); j++)
                     {
                         if (array[i, j] > 0)
                         {
@@ -30,9 +30,9 @@ namespace ArrayHelper
             double res = 0;
             if (array.Length > 0)
             {
-                for (int i = 0; i < array.GetLength(1); i++)
+                for (int i = 0; i < array.GetLength(0); i++)
                 {
-                    for (int j = 0; j < array.GetLength(0); j++)
+                    for (int j = 0; j < array.GetLength(1); j++)
                     {
                         if (array[i, j] > 0)
                         {
@@ -49,9 +49,9 @@ namespace ArrayHelper
             sbyte res = 0;
             if (array.Length > 0)
             {
-                for (int i = 0; i < array.GetLength(1); i++)
+                for (int i = 0; i < array.GetLength(0); i++)
                 {
-                    for (int j = 0; j < array.GetLength(0); j++)
+                    for (int j = 0; j < array.GetLength(1); j++)
                     {
                         if (array[i, j] > 0)
                         {

@@ -27,23 +27,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\diana\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\sinenkova\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitProjects\\primaryModules\\M01\\LibraryTest\\LibraryTest.csproj",
+      "projectUniqueName": "D:\\Личная папка\\Documents\\primaryModules-master\\M01\\LibraryTest\\LibraryTest.csproj",
       "projectName": "LibraryTest",
-      "projectPath": "C:\\GitProjects\\primaryModules\\M01\\LibraryTest\\LibraryTest.csproj",
-      "packagesPath": "C:\\Users\\diana\\.nuget\\packages\\",
-      "outputPath": "C:\\GitProjects\\primaryModules\\M01\\LibraryTest\\obj\\",
+      "projectPath": "D:\\Личная папка\\Documents\\primaryModules-master\\M01\\LibraryTest\\LibraryTest.csproj",
+      "packagesPath": "C:\\Users\\sinenkova\\.nuget\\packages\\",
+      "outputPath": "D:\\Личная папка\\Documents\\primaryModules-master\\M01\\LibraryTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\diana\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sinenkova\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -58,8 +60,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\GitProjects\\primaryModules\\M01\\ArrayHelper\\ArrayHelper.csproj": {
-              "projectPath": "C:\\GitProjects\\primaryModules\\M01\\ArrayHelper\\ArrayHelper.csproj"
+            "D:\\Личная папка\\Documents\\primaryModules-master\\M01\\ArrayHelper\\ArrayHelper.csproj": {
+              "projectPath": "D:\\Личная папка\\Documents\\primaryModules-master\\M01\\ArrayHelper\\ArrayHelper.csproj"
             }
           }
         }
@@ -88,7 +90,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
